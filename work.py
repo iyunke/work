@@ -1,4 +1,9 @@
 #!/usr/bin/env python
-import numpy from numpy
-
-print "hello"
+import os
+class Name:
+    def _init_(self,name,salary):
+        self.name=name
+        self.salary=salary
+    def testMets():
+        print "testMets"
+        
