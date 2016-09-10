@@ -6,4 +6,6 @@ class Name:
         self.salary=salary
     def testMets():
         print "testMets"
-        
+if __name__=="__main__":
+    testMets()
+
